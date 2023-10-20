@@ -12,7 +12,7 @@
 # Mobile Kotlin resources
 
 This is a Kotlin MultiPlatform library (and Gradle plugin) that provides access to the resources on
-macOS, iOS, Android the JVM and JS/Browser with the support of the default system localization.
+macOS, iOS, Android the JVM and JS/Browser with the support of the default system localization. 
 
 Also MOKO resources
 supports [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) so you can
